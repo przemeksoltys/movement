@@ -1,0 +1,70 @@
+= Biznes dotyczący Ubera
+
+== Opis
+
+Projekt dotyczy założenia firmy partnerskiej dla firmy Uber.
+
+== Warunki potrzebne do spełnienia
+
+* Posiadanie działalności
+* Zakup minimum jednego samochodu lub leasing
+* Sformalizowanie relacji z firmą Uber
+* Zatrudnienia zasobów ludzkich
+* Wyszkolenia pracowników
+* Przetestowanie pracowników
+* Ewidencjonowanie pracy czasowników w czasie rzeczywistym lub magazynowanie
+  informacji (buforowanie)
+* Ciągła rekrutacja
+* Opracownie systemu minimalizacji kosztu
+
+== Cel
+
+* Miesięczny przychód z usługi przewozu klientów
+* Kwota przychodu wacha się w okolicach 4 -5 tys PLN z jednego samochodu
+
+== Zakres
+
+* Oddelegowanie odpowidzalności za nieszczęśliwe wypadki na firmę Uber
+
+== Możliwości optymalizacji i zmniejszenia kosztów
+
+* Instalacja gazowa
+* W przeciągu roku możliwe jest sprówabać za trzecim razem uzyskać dotację około 40 tys PLN
+
+== Przychód
+
+* Około 30 - 40 PLN za godzię jężdżacego samochodu
+
+== Koszty
+
+* Opłata dla Ubera
+* Ciągła rekrutacja - 3 godziny miesięcznie
+* Koszty związane z wystawnieniem ogłoszeń rekrutacyjnych - 50 PLN / miesiąc
+* Zakup lub leasing samochodu - 40 - 65 tys. PLN zakup jednorazowy lub około
+  2 tys. PLN miesięcznie za leasing
+* 15 - 18 PLN na godzinę dla kierowcy na jednego kierowcę
+* Paliwo - dla Forda Focusa 7,3 litów / 100 km pesymistyczne średnie spalanie według http://www.autocentrum.pl/spalanie/ford/focus/iii/hatchback-5d-facelifting/silnik-benzynowy-1.0-ecoboost-100km-od-2014/[autocentrum]
+* Koszt mycia samochodu
+* Czas zasobu na umycie samochodu
+* Ubezpieczenie samochodu
+* Składki ubezpieczenia za człowieka
+* Najlepiej zatudnić studentów co zmniejsza koszty
+* Księgowa - 150 PLN / miesiąc
+* Koszty eksploatacji samochdu
+
+== Wydajność zasobów
+
+* Samochód pracuje 24 godziny 
+
+== Estymowany zysk
+
+* W skali roku jeden samochód potrafi zarobić 40 - 50 tys. PLN.
+
+== Ryzyka
+
+== Konkurancja
+
+== Niewiadome
+
+* Ile zmniejsza koszt zatrudnienia studenta
+* Dowiedzieć się ile oszczędza się podpisując umowę z firmą typu Flota
