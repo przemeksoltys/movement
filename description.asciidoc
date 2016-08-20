@@ -2,7 +2,11 @@
 
 == Opis
 
-Projekt dotyczy założenia firmy partnerskiej dla firmy Uber.
+Projekt dotyczy założenia firmy partnerskiej dla firmy Uber
+
+== Czas potrzebny do wystartowania projektu
+
+* Około 10 dni kalendarzowych na sprawy formalne
 
 == Warunki potrzebne do spełnienia
 
@@ -41,7 +45,7 @@ Projekt dotyczy założenia firmy partnerskiej dla firmy Uber.
 * Ciągła rekrutacja - 3 godziny miesięcznie
 * Koszty związane z wystawnieniem ogłoszeń rekrutacyjnych - 50 PLN / miesiąc
 * Zakup lub leasing samochodu - 40 - 65 tys. PLN zakup jednorazowy lub około
-  2 tys. PLN miesięcznie za leasing
+  2 tys. PLN miesięcznie za leasing + wkład własny na poziomie 20 tys PLN
 * 15 - 18 PLN na godzinę dla kierowcy na jednego kierowcę
 * Paliwo - dla Forda Focusa 7,3 litów / 100 km pesymistyczne średnie spalanie według http://www.autocentrum.pl/spalanie/ford/focus/iii/hatchback-5d-facelifting/silnik-benzynowy-1.0-ecoboost-100km-od-2014/[autocentrum]
 * Koszt mycia samochodu
@@ -51,10 +55,14 @@ Projekt dotyczy założenia firmy partnerskiej dla firmy Uber.
 * Najlepiej zatudnić studentów co zmniejsza koszty
 * Księgowa - 150 PLN / miesiąc
 * Koszty eksploatacji samochdu
+* ZUS od działalności gospodarczej
+* Podatek dochodowy
 
 == Wydajność zasobów
 
-* Samochód pracuje 24 godziny 
+* Samochód pracuje 24 godziny, jednak co jakiś czas należy go umyć
+* Kierowca wielokrotnie chce zatrzymać się zjeść, wieć samochód nie pracuje
+* Kierowca chce iść do toalety
 
 == Estymowany zysk
 
@@ -62,9 +70,12 @@ Projekt dotyczy założenia firmy partnerskiej dla firmy Uber.
 
 == Ryzyka
 
+* Potencjalnie samochód może nie generować przychodu, bo może się np. zepsuć. Rozwiązaniem może być samohcód prywatny, choć ubezpieczenie powinno dawać zastępczy, ale Uber nie zaakceptuje go
+
 == Konkurancja
 
 == Niewiadome
 
 * Ile zmniejsza koszt zatrudnienia studenta
 * Dowiedzieć się ile oszczędza się podpisując umowę z firmą typu Flota
+* Dowiedzieć się, czy lepiej jest wziąć kredyt, czy lesing
