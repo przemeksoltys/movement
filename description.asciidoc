@@ -1,23 +1,14 @@
-###############################################################################
 = Biznes dotyczacy Ubera
-###############################################################################
 
-###############################################################################
 == Opis
-###############################################################################
 
 Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
-###############################################################################
 
-###############################################################################
 == Czas potrzebny do wystartowania projektu
-###############################################################################
 
 * Okolo 10 dni kalendarzowych na sprawy formalne
 
-###############################################################################
 == Warunki potrzebne do spelnienia
-###############################################################################
 
 * Posiadanie dzialalnosci
 * Zakup minimum jednego samochodu lub leasing
@@ -30,16 +21,12 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 * Ciagla rekrutacja
 * Opracownie systemu minimalizacji kosztu
 
-###############################################################################
 == Cel
-###############################################################################
 
 * Miesieczny przychod z uslugi przewozu klientow
 * Kwota przychodu wacha sie w okolicach 4 -5 tys PLN z jednego samochodu
 
-###############################################################################
 == Zakres
-###############################################################################
 
 * Oddelegowanie odpowidzalnosci ile mo¿liwe na firme Uber
 * Zamontowanie na pok³adzie komputera z modu³em GPS, ODB2, Kamera, pamiêci¹
@@ -50,31 +37,25 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 * Stworzenie jak najbardziej kozystnej umowy z kierowca (koszt prawnika)
 * Spe³nienie wymogów Ubera dotycz¹cych kierowcy i samochodu
 
-###############################################################################
 == Mozliwosci optymalizacji i zmniejszenia kosztow
-###############################################################################
 
 * Instalacja gazowa
 * W przeciagu roku mozliwe jest sprowabac za trzecim razem uzyskac dotacje
   okolo 40 tys PLN
 * Monta¿ wiêkszego pojemnika na gaz w samochodzie
 
-###############################################################################
 == Przychod
-###############################################################################
 
 * Okolo 30 - 40 PLN za godzie jezdzacego samochodu
 
-###############################################################################
 == Koszty
-###############################################################################
 
-Capex (inwestycja):
+=== Capex (inwestycja):
 * Zakup samochodu typu Ford Focus lub inny. Jest to koszt na poziomie od 40 do
   65 tys. PLN
 * Wklad wlasny do leasingu
 
-Opex (utrzymanie):
+=== Opex (utrzymanie):
 * Prowizja dla Ubera
 * Ciagla rekrutacja - 3 godziny miesiecznie (Igor oferuje siê, ¿e mo¿e, Sova
   godzinê)
@@ -94,35 +75,25 @@ Opex (utrzymanie):
 * ZUS od dzialalnosci gospodarczej
 * Podatek dochodowy
 
-###############################################################################
 == Wydajnosc zasobow
-###############################################################################
 
 * Samochod pracuje 24 godziny, jednak co jakis czas nalezy go umyc
 * Kierowca wielokrotnie chce zatrzymac sie zjesc, wiec samochod nie pracuje
 * Kierowca chce isc do toalety
 
-###############################################################################
 == Estymowany zysk
-###############################################################################
 
 * W skali roku jeden samochod potrafi zarobic 40 - 50 tys. PLN.
 
-###############################################################################
 == Ryzyka
-###############################################################################
 
 * Potencjalnie samochod moze nie generowac przychodu, bo moze sie np. zepsuc.
   Rozwiazaniem moze byc samohcod prywatny, choc ubezpieczenie powinno dawac
   zastepczy, ale Uber nie zaakceptuje go
 
-###############################################################################
 == Konkurancja
-###############################################################################
 
-###############################################################################
 == Niewiadome
-###############################################################################
 
 * Ile zmniejsza koszt zatrudnienia studenta
 * Dowiedziec sie ile oszczedza sie podpisujac umowe z firma typu Flota
