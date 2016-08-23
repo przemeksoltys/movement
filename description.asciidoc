@@ -2,11 +2,11 @@
 
 == Opis
 
-Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
+* Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 
 == Czas potrzebny do wystartowania projektu
 
-* Okolo 10 dni kalendarzowych na sprawy formalne
+* Okolo 10 dni kalendarzowych na sprawy formalne zwi¹zane z Uberem
 
 == Warunki potrzebne do spelnienia
 
@@ -26,9 +26,11 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 * Miesieczny przychod z uslugi przewozu klientow
 * Kwota przychodu wacha sie w okolicach 4 -5 tys PLN z jednego samochodu
 * Sprzedaz samochodu jak najwczesniej sie da, ze zgledu na wysoki przebieg
-* Igor wspomina, ze jest opcja leasingu lub podobnego (Volzwagen ma taka opcje)
-  ze kozysta sie z samochodu przez dwa lata, a po tym czasie oddaje sie
-  samochod do salonu, a nastepnie otrzymuje sie calkowicie nowy.
+* Igor wspomina, ze jest opcja leasingu lub podobnego (Volzwagen ma taka opcje
+  i siê nazywa Easy Drive) ze kozysta sie z samochodu przez dwa lata, a po tym
+  czasie oddaje sie samochod do salonu, a nastepnie otrzymuje sie calkowicie
+  nowy.
+* Zakup samochdu uzywanego i wszelkie koszty zwiazane ze sprawdzeniem go
 
 == Zakres
 
@@ -118,6 +120,5 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 * Ile zmniejsza koszt zatrudnienia studenta
 * Dowiedziec sie ile oszczedza sie podpisujac umowe z firma typu Flota
 * Dowiedziec sie, czy lepiej jest wziac kredyt, czy lesing
-* Igor wspomina, ze jest opcja leasingu lub podobnego (Volzwagen ma taka opcje)
-  ze kozysta sie z samochodu przez dwa lata, a po tym czasie oddaje sie
-  samochod do salonu, a nastepnie otrzymuje sie calkowicie nowy.
+* Jaki przebieg robi samochód non stop eksploatowany rocznie. Mo¿na zapytaæ
+  Edyty Szwagra, który dorabia siê na Uberze w ten sposób
