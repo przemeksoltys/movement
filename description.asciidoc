@@ -1,81 +1,129 @@
-= Biznes dotyczący Ubera
+###############################################################################
+= Biznes dotyczacy Ubera
+###############################################################################
 
+###############################################################################
 == Opis
+###############################################################################
 
-Projekt dotyczy założenia firmy partnerskiej dla firmy Uber
+Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
+###############################################################################
 
+###############################################################################
 == Czas potrzebny do wystartowania projektu
+###############################################################################
 
-* Około 10 dni kalendarzowych na sprawy formalne
+* Okolo 10 dni kalendarzowych na sprawy formalne
 
-== Warunki potrzebne do spełnienia
+###############################################################################
+== Warunki potrzebne do spelnienia
+###############################################################################
 
-* Posiadanie działalności
+* Posiadanie dzialalnosci
 * Zakup minimum jednego samochodu lub leasing
-* Sformalizowanie relacji z firmą Uber
-* Zatrudnienia zasobów ludzkich
-* Wyszkolenia pracowników
-* Przetestowanie pracowników
-* Ewidencjonowanie pracy czasowników w czasie rzeczywistym lub magazynowanie
+* Sformalizowanie relacji z firma Uber
+* Zatrudnienia zasobow ludzkich
+* Wyszkolenia pracownikow
+* Przetestowanie pracownikow
+* Ewidencjonowanie pracy czasownikow w czasie rzeczywistym lub magazynowanie
   informacji (buforowanie)
-* Ciągła rekrutacja
+* Ciagla rekrutacja
 * Opracownie systemu minimalizacji kosztu
 
+###############################################################################
 == Cel
+###############################################################################
 
-* Miesięczny przychód z usługi przewozu klientów
-* Kwota przychodu wacha się w okolicach 4 -5 tys PLN z jednego samochodu
+* Miesieczny przychod z uslugi przewozu klientow
+* Kwota przychodu wacha sie w okolicach 4 -5 tys PLN z jednego samochodu
 
+###############################################################################
 == Zakres
+###############################################################################
 
-* Oddelegowanie odpowidzalności za nieszczęśliwe wypadki na firmę Uber
+* Oddelegowanie odpowidzalnosci ile mo�liwe na firme Uber
+* Zamontowanie na pok�adzie komputera z modu�em GPS, ODB2, Kamera, pami�ci�
+  (czarna skrzynka w przypadku wypadku), ewentualnie alco test
+* Nagrywanie podczas jazdy otoczenia samochodu
+* Przygotowanie standardu jako�ci uslugi (na przyklad predkosc uslugi,
+  utrzymanie poziu  czystosci)
+* Stworzenie jak najbardziej kozystnej umowy z kierowca (koszt prawnika)
+* Spe�nienie wymog�w Ubera dotycz�cych kierowcy i samochodu
 
-== Możliwości optymalizacji i zmniejszenia kosztów
+###############################################################################
+== Mozliwosci optymalizacji i zmniejszenia kosztow
+###############################################################################
 
 * Instalacja gazowa
-* W przeciągu roku możliwe jest sprówabać za trzecim razem uzyskać dotację około 40 tys PLN
+* W przeciagu roku mozliwe jest sprowabac za trzecim razem uzyskac dotacje
+  okolo 40 tys PLN
+* Monta� wi�kszego pojemnika na gaz w samochodzie
 
-== Przychód
+###############################################################################
+== Przychod
+###############################################################################
 
-* Około 30 - 40 PLN za godzię jężdżacego samochodu
+* Okolo 30 - 40 PLN za godzie jezdzacego samochodu
 
+###############################################################################
 == Koszty
+###############################################################################
 
-* Opłata dla Ubera
-* Ciągła rekrutacja - 3 godziny miesięcznie
-* Koszty związane z wystawnieniem ogłoszeń rekrutacyjnych - 50 PLN / miesiąc
-* Zakup lub leasing samochodu - 40 - 65 tys. PLN zakup jednorazowy lub około
-  2 tys. PLN miesięcznie za leasing + wkład własny na poziomie 20 tys PLN
-* 15 - 18 PLN na godzinę dla kierowcy na jednego kierowcę
-* Paliwo - dla Forda Focusa 7,3 litów / 100 km pesymistyczne średnie spalanie według http://www.autocentrum.pl/spalanie/ford/focus/iii/hatchback-5d-facelifting/silnik-benzynowy-1.0-ecoboost-100km-od-2014/[autocentrum]
-* Koszt mycia samochodu
-* Czas zasobu na umycie samochodu
+Capex (inwestycja):
+* Zakup samochodu typu Ford Focus lub inny. Jest to koszt na poziomie od 40 do
+  65 tys. PLN
+* Wklad wlasny do leasingu
+
+Opex (utrzymanie):
+* Prowizja dla Ubera
+* Ciagla rekrutacja - 3 godziny miesiecznie (Igor oferuje si�, �e mo�e, Sova
+  godzin�)
+* Koszty zwiazane z wystawnieniem ogloszen rekrutacyjnych - 50 PLN / miesiac
+* Lesing na poziomie 2 tys. PLN miesi�cznie
+* 15 - 18 PLN na godzine dla kierowcy na jednego kierowce
+* Paliwo - dla Forda Focusa 7,3 litow / 100 km pesymistyczne srednie spalanie
+  wedlug http://www.autocentrum.pl/spalanie/ford/focus/iii/hatchback-5d-facelifting/silnik-benzynowy-1.0-ecoboost-100km-od-2014/[autocentrum]
+* Koszt mycia samochodu (opcja u Jacka Taty - minus okreslone miejsce na
+  miescie lub karta flotowa daje rabat na tankowanie i mycie samochodu)
+* Czas zasobu na umycie samochodu (stala godzina)
 * Ubezpieczenie samochodu
-* Składki ubezpieczenia za człowieka
-* Najlepiej zatudnić studentów co zmniejsza koszty
-* Księgowa - 150 PLN / miesiąc
+* Skladki ubezpieczenia za czlowieka (umowa zlecenia lub dzie�o)
+* Najlepiej zatudnic studentow co zmniejsza koszty
+* Ksiegowa - 150 PLN / miesiac
 * Koszty eksploatacji samochdu
-* ZUS od działalności gospodarczej
+* ZUS od dzialalnosci gospodarczej
 * Podatek dochodowy
 
-== Wydajność zasobów
+###############################################################################
+== Wydajnosc zasobow
+###############################################################################
 
-* Samochód pracuje 24 godziny, jednak co jakiś czas należy go umyć
-* Kierowca wielokrotnie chce zatrzymać się zjeść, wieć samochód nie pracuje
-* Kierowca chce iść do toalety
+* Samochod pracuje 24 godziny, jednak co jakis czas nalezy go umyc
+* Kierowca wielokrotnie chce zatrzymac sie zjesc, wiec samochod nie pracuje
+* Kierowca chce isc do toalety
 
+###############################################################################
 == Estymowany zysk
+###############################################################################
 
-* W skali roku jeden samochód potrafi zarobić 40 - 50 tys. PLN.
+* W skali roku jeden samochod potrafi zarobic 40 - 50 tys. PLN.
 
+###############################################################################
 == Ryzyka
+###############################################################################
 
-* Potencjalnie samochód może nie generować przychodu, bo może się np. zepsuć. Rozwiązaniem może być samohcód prywatny, choć ubezpieczenie powinno dawać zastępczy, ale Uber nie zaakceptuje go
+* Potencjalnie samochod moze nie generowac przychodu, bo moze sie np. zepsuc.
+  Rozwiazaniem moze byc samohcod prywatny, choc ubezpieczenie powinno dawac
+  zastepczy, ale Uber nie zaakceptuje go
 
+###############################################################################
 == Konkurancja
+###############################################################################
 
+###############################################################################
 == Niewiadome
+###############################################################################
 
 * Ile zmniejsza koszt zatrudnienia studenta
-* Dowiedzieć się ile oszczędza się podpisując umowę z firmą typu Flota
-* Dowiedzieć się, czy lepiej jest wziąć kredyt, czy lesing
+* Dowiedziec sie ile oszczedza sie podpisujac umowe z firma typu Flota
+* Dowiedziec sie, czy lepiej jest wziac kredyt, czy lesing
