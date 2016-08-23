@@ -25,6 +25,10 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 
 * Miesieczny przychod z uslugi przewozu klientow
 * Kwota przychodu wacha sie w okolicach 4 -5 tys PLN z jednego samochodu
+* Sprzedaz samochodu jak najwczesniej sie da, ze zgledu na wysoki przebieg
+* Igor wspomina, ze jest opcja leasingu lub podobnego (Volzwagen ma taka opcje)
+  ze kozysta sie z samochodu przez dwa lata, a po tym czasie oddaje sie
+  samochod do salonu, a nastepnie otrzymuje sie calkowicie nowy.
 
 == Zakres
 
@@ -75,6 +79,20 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
 * ZUS od dzialalnosci gospodarczej
 * Podatek dochodowy
 
+== Mycie i sprz¹tanie samochodu
+
+* Raz na jakis czas firma zewnetrzna (np myjnia znana) ma sprawdzic stan
+  czystosci samochodu
+* Kierwca ma dbac o poziom czystosci w samochodzie, bo jest oceniany
+  indywidaulnie i rozwiacuje to aplikacja Ubera. Czyszczenie samochodu jest po
+  stronie kierowcy. Uber pokrywa uszkodzenia lub szkody spowodowane przez
+  klienta.
+
+== Kontrola techniczna samochodu
+
+* Kozystanie z obowiazkowych przegladow
+* Okresowe wizytu u mechanika na diagnoze
+
 == Wydajnosc zasobow
 
 * Samochod pracuje 24 godziny, jednak co jakis czas nalezy go umyc
@@ -91,10 +109,15 @@ Projekt dotyczy zalozenia firmy partnerskiej dla firmy Uber
   Rozwiazaniem moze byc samohcod prywatny, choc ubezpieczenie powinno dawac
   zastepczy, ale Uber nie zaakceptuje go
 
-== Konkurancja
+== Konkurencja
+
+* Uber zalatwia temat konkurencji (jezdzimy pod znana marka)
 
 == Niewiadome
 
 * Ile zmniejsza koszt zatrudnienia studenta
 * Dowiedziec sie ile oszczedza sie podpisujac umowe z firma typu Flota
 * Dowiedziec sie, czy lepiej jest wziac kredyt, czy lesing
+* Igor wspomina, ze jest opcja leasingu lub podobnego (Volzwagen ma taka opcje)
+  ze kozysta sie z samochodu przez dwa lata, a po tym czasie oddaje sie
+  samochod do salonu, a nastepnie otrzymuje sie calkowicie nowy.
