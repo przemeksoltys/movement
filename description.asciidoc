@@ -36,7 +36,8 @@
 
 * Oddelegowanie odpowidzalnosci ile mo¿liwe na firme Uber
 * Zamontowanie na pok³adzie komputera z modu³em GPS, ODB2, Kamera, pamiêci¹
-  (czarna skrzynka w przypadku wypadku), ewentualnie alco test
+  (czarna skrzynka w przypadku wypadku), ewentualnie alco test, czujnik dymu -
+  np nie mo¿na paliæ w samochodzie
 * Nagrywanie podczas jazdy otoczenia samochodu
 * Przygotowanie standardu jakoœci uslugi (na przyklad predkosc uslugi,
   utrzymanie poziu  czystosci)
