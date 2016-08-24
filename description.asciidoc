@@ -6,7 +6,7 @@
 
 == Czas potrzebny do wystartowania projektu
 
-* Okolo 10 dni kalendarzowych na sprawy formalne zwi¹zane z Uberem
+* Okolo 10 dni kalendarzowych na sprawy formalne zwiazane z Uberem
 
 == Warunki potrzebne do spelnienia
 
@@ -27,29 +27,35 @@
 * Kwota przychodu wacha sie w okolicach 4 -5 tys PLN z jednego samochodu
 * Sprzedaz samochodu jak najwczesniej sie da, ze zgledu na wysoki przebieg
 * Igor wspomina, ze jest opcja leasingu lub podobnego (Volzwagen ma taka opcje
-  i siê nazywa Easy Drive) ze kozysta sie z samochodu przez dwa lata, a po tym
+  i sie nazywa Easy Drive) ze kozysta sie z samochodu przez dwa lata, a po tym
   czasie oddaje sie samochod do salonu, a nastepnie otrzymuje sie calkowicie
   nowy.
 * Zakup samochdu uzywanego i wszelkie koszty zwiazane ze sprawdzeniem go
 
 == Zakres
 
-* Oddelegowanie odpowidzalnosci ile mo¿liwe na firme Uber
-* Zamontowanie na pok³adzie komputera z modu³em GPS, ODB2, Kamera, pamiêci¹
+* Oddelegowanie odpowidzalnosci ile mozliwe na firme Uber
+* Zamontowanie na pok³adzie komputera z modu³em GPS, ODB2, Kamera, pamiecia
   (czarna skrzynka w przypadku wypadku), ewentualnie alco test, czujnik dymu -
-  np nie mo¿na paliæ w samochodzie
+  np nie mozna paliæ w samochodzie
 * Nagrywanie podczas jazdy otoczenia samochodu
-* Przygotowanie standardu jakoœci uslugi (na przyklad predkosc uslugi,
+* Przygotowanie standardu jakosci uslugi (na przyklad predkosc uslugi,
   utrzymanie poziu  czystosci)
 * Stworzenie jak najbardziej kozystnej umowy z kierowca (koszt prawnika)
-* Spe³nienie wymogów Ubera dotycz¹cych kierowcy i samochodu
+* Spe³nienie wymogów Ubera dotyczacych kierowcy i samochodu
 
 == Mozliwosci optymalizacji i zmniejszenia kosztow
 
 * Instalacja gazowa
 * W przeciagu roku mozliwe jest sprowabac za trzecim razem uzyskac dotacje
   okolo 40 tys PLN
-* Monta¿ wiêkszego pojemnika na gaz w samochodzie
+* Montaz wiekszego pojemnika na gaz w samochodzie
+* Modu³ komputera samochodowego moze pos³uzyc do diagnostyki i monitorowania
+  pracownika, ale takze jako centrala do wyswietlania wiadomosci dla
+  pracownika. Dodatkowo Ekrany na naglowkach moga posluzyc do wyswietlania
+  reklam, czyli potencjalnie mozna sprzedawac przestrzen reklamowa. Napis
+  "Dzis ten napis zobaczylo juz x ludzi - tak jak w kiblach przy pisuarach"
+  moze trafiac do czlowieka jadacego jak pasazer
 
 == Przychod
 
@@ -64,10 +70,10 @@
 
 === Opex (utrzymanie):
 * Prowizja dla Ubera
-* Ciagla rekrutacja - 3 godziny miesiecznie (Igor oferuje siê, ¿e mo¿e, Sova
-  godzinê)
+* Ciagla rekrutacja - 3 godziny miesiecznie (Igor oferuje sie, ze moze, Sova
+  godzine)
 * Koszty zwiazane z wystawnieniem ogloszen rekrutacyjnych - 50 PLN / miesiac
-* Lesing na poziomie 2 tys. PLN miesiêcznie
+* Lesing na poziomie 2 tys. PLN miesiecznie
 * 15 - 18 PLN na godzine dla kierowcy na jednego kierowce
 * Paliwo - dla Forda Focusa 7,3 litow / 100 km pesymistyczne srednie spalanie
   wedlug http://www.autocentrum.pl/spalanie/ford/focus/iii/hatchback-5d-facelifting/silnik-benzynowy-1.0-ecoboost-100km-od-2014/[autocentrum]
@@ -82,7 +88,7 @@
 * ZUS od dzialalnosci gospodarczej
 * Podatek dochodowy
 
-== Mycie i sprz¹tanie samochodu
+== Mycie i sprzatanie samochodu
 
 * Raz na jakis czas firma zewnetrzna (np myjnia znana) ma sprawdzic stan
   czystosci samochodu
@@ -121,5 +127,7 @@
 * Ile zmniejsza koszt zatrudnienia studenta
 * Dowiedziec sie ile oszczedza sie podpisujac umowe z firma typu Flota
 * Dowiedziec sie, czy lepiej jest wziac kredyt, czy lesing
-* Jaki przebieg robi samochód non stop eksploatowany rocznie. Mo¿na zapytaæ
-  Edyty Szwagra, który dorabia siê na Uberze w ten sposób
+* Jaki przebieg robi samochód non stop eksploatowany rocznie. Mozna zapytaæ
+  Edyty Szwagra, który dorabia sie na Uberze w ten sposób. Mrówy research da³
+  nam informacje mniej wiecej 15 km na godzine.
+* Forma zatrudnienia jest istotna. Nalezy sprawdziæ, przyk³adem jest strona http://poradnik.wfirma.pl/-umowa-zlecenie-a-umowa-o-dzielo
