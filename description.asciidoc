@@ -35,14 +35,14 @@
 == Zakres
 
 * Oddelegowanie odpowidzalnosci ile mozliwe na firme Uber
-* Zamontowanie na pok≥adzie komputera z modu≥em GPS, ODB2, Kamera, pamiecia
+* Zamontowanie na pok≈Çadzie komputera z modu≈Çem GPS, ODB2, Kamera, pamiecia
   (czarna skrzynka w przypadku wypadku), ewentualnie alco test, czujnik dymu -
-  np nie mozna paliÊ w samochodzie
+  np nie mozna paliƒá w samochodzie
 * Nagrywanie podczas jazdy otoczenia samochodu
 * Przygotowanie standardu jakosci uslugi (na przyklad predkosc uslugi,
   utrzymanie poziu  czystosci)
 * Stworzenie jak najbardziej kozystnej umowy z kierowca (koszt prawnika)
-* Spe≥nienie wymogÛw Ubera dotyczacych kierowcy i samochodu
+* Spe≈Çnienie wymog√≥w Ubera dotyczacych kierowcy i samochodu
 
 == Mozliwosci optymalizacji i zmniejszenia kosztow
 
@@ -50,7 +50,7 @@
 * W przeciagu roku mozliwe jest sprowabac za trzecim razem uzyskac dotacje
   okolo 40 tys PLN
 * Montaz wiekszego pojemnika na gaz w samochodzie
-* Modu≥ komputera samochodowego moze pos≥uzyc do diagnostyki i monitorowania
+* Modu≈Ç komputera samochodowego moze pos≈Çuzyc do diagnostyki i monitorowania
   pracownika, ale takze jako centrala do wyswietlania wiadomosci dla
   pracownika. Dodatkowo Ekrany na naglowkach moga posluzyc do wyswietlania
   reklam, czyli potencjalnie mozna sprzedawac przestrzen reklamowa. Napis
@@ -59,7 +59,7 @@
 
 == Przychod
 
-* Okolo 30 - 40 PLN za godzie jezdzacego samochodu
+* Okolo 30 - 40 PLN za godzine jezdzacego samochodu
 
 == Koszty
 
@@ -81,7 +81,7 @@
   miescie lub karta flotowa daje rabat na tankowanie i mycie samochodu)
 * Czas zasobu na umycie samochodu (stala godzina)
 * Ubezpieczenie samochodu
-* Skladki ubezpieczenia za czlowieka (umowa zlecenia lub dzie≥o)
+* Skladki ubezpieczenia za czlowieka (umowa zlecenia lub dzie≈Ço)
 * Najlepiej zatudnic studentow co zmniejsza koszty
 * Ksiegowa - 150 PLN / miesiac
 * Koszty eksploatacji samochdu
@@ -127,7 +127,7 @@
 * Ile zmniejsza koszt zatrudnienia studenta
 * Dowiedziec sie ile oszczedza sie podpisujac umowe z firma typu Flota
 * Dowiedziec sie, czy lepiej jest wziac kredyt, czy lesing
-* Jaki przebieg robi samochÛd non stop eksploatowany rocznie. Mozna zapytaÊ
-  Edyty Szwagra, ktÛry dorabia sie na Uberze w ten sposÛb. MrÛwy research da≥
+* Jaki przebieg robi samoch√≥d non stop eksploatowany rocznie. Mozna zapytaƒá
+  Edyty Szwagra, kt√≥ry dorabia sie na Uberze w ten spos√≥b. Mr√≥wy research da≈Ç
   nam informacje mniej wiecej 15 km na godzine.
-* Forma zatrudnienia jest istotna. Nalezy sprawdziÊ, przyk≥adem jest strona http://poradnik.wfirma.pl/-umowa-zlecenie-a-umowa-o-dzielo
+* Forma zatrudnienia jest istotna. Nalezy sprawdziƒá, przyk≈Çadem jest strona http://poradnik.wfirma.pl/-umowa-zlecenie-a-umowa-o-dzielo
